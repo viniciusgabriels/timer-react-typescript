@@ -1,3 +1,11 @@
+# Description
+
+This project simulates a timer to set a study time limit for each item created. The idea and layout comes from Alura.
+
+This is not intended to be a final product, the initial idea was to study React with Typescript, taking the opportunity to see some CSS modules with SASS. The timeout is 99 minutes and 99 seconds (1:40h).
+
+In the future it is possible that I return to this project to improve the JS logic to work with more hours on the timer, set some kind of beep on timeout, study cash storage and other stuff.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
